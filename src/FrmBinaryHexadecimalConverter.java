@@ -1,13 +1,9 @@
 /*
- * Date
- * Name
- * Program
+ * May 15, 2020
+ * Erika Graham
+ * Binary, Hexadecimal, and Decimal converter
  */
 
-/**
- *
- * @author kikag
- */
 public class FrmBinaryHexadecimalConverter extends javax.swing.JFrame {
 
     /**
